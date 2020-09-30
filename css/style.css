@@ -24,3 +24,16 @@
     color: white;
 }
 
+.callme-2{
+    margin-top: 50px;
+}
+
+.callme-3 .col-md-6 figure{
+    width: 500px;
+    height: 420px;
+}
+
+.callme-3{
+    margin-top: 20px;
+    margin-bottom: 150px;
+}
